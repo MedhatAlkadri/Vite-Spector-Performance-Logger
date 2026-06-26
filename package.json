@@ -2,6 +2,14 @@
   "name": "vite-plugin-spector-perf-logger",
   "version": "1.0.0",
   "description": "Standalone Vite-Spector Performance Logger that distills Three.js traces into readable Markdown.",
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/MedhatAlkadri/Vite-Spector-Performance-Logger.git"
+  },
+  "homepage": "https://github.com/MedhatAlkadri/Vite-Spector-Performance-Logger#readme",
+  "bugs": {
+    "url": "https://github.com/MedhatAlkadri/Vite-Spector-Performance-Logger/issues"
+  },
   "main": "src/plugin.js",
   "type": "module",
   "exports": {
